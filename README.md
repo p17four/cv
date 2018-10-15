@@ -4,27 +4,19 @@
 
 ### PERSONAL DETAILS 
 
-#Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Name: George Fournaris 
 
-1. Numbered
-2. List
+Birth date: 29-10-1999
 
-**Bold** and _Italic_ and `Code` text
+Email: p17fourionio.gr  
 
-[Link](url) and ![Image](src)
-```
+Occupation: Student @ DI IONIO
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Languages: English (proficiency), Greek (native)
 
-### Jekyll Themes
+Work Experience: Not much
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p17four/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Programming level: C (Experienced), C++ (Moderate)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Interests: Music, Games, Movies, Reading
