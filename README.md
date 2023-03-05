@@ -9,7 +9,7 @@ Name: George Fournaris
 
 Birth date: 29-10-1999
 
-Email: p17fourionio.gr  
+Email: p17four@ionio.gr  
 
 Occupation: Student @ DI IONIO
 
